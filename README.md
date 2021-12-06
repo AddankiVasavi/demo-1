@@ -18,12 +18,32 @@
     2. mango
     3. banana
 
+~~hello~~
+
 [vasavi](https://getpocket.com/explore/item/eye-fatigue-i-tried-eye-yoga-to-relieve-the-strain-wfh-is-putting-on-my-eyes-and-this-is-what?utm_source=pocket-newtab-intl-en)
 ![mangoes](https://user-images.githubusercontent.com/95603243/144793472-5c665386-7114-4f04-98bc-77386768813b.png)
 rollnumber|Name|emailid|
 ----------|----|-------
 1|vasavi|addankivasavi555@gmail.com
 2|teja|tejanagalakshmi
+
+:+1:
+😄
+😋
+😆
+```c
+printf("helloworld");
+```
+hello this is `Addanki Vasavi`good afternoon
+```
+gitstatus
+
+git hub
+
+#git
+```
+
+
 
    
   
